@@ -17,6 +17,7 @@ This project is not official. It is not affiliated with the respective owners an
 
 ## Credits/License
 Dev - [Goldorion](https://github.com/Goldorion)
+
 This generator is currently a copy-paste of the official Forge 1.20.1 generator due to the recent creation of NeoForged.
 
 The plugin's MCreator page is [here](https://mcreator.net/plugin/99855/neoforge-generator).
